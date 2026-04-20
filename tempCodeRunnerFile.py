@@ -1,0 +1,1 @@
+st.write(type(model))
